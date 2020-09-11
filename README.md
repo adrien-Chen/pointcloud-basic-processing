@@ -5,7 +5,7 @@
 
 主要对以下算法进行学习和实现，
 
-- [PCA](/pointcloud-basic-processing/pca)
+- [PCA](https://github.com/adrien-Chen/pointcloud-basic-processing/tree/master/pca)
 
   - 对ModelNet40数据做PCA
 
@@ -15,13 +15,13 @@
 
 ![](imgs/voxel_filter.png)
 
-- [Nearest Neighbors Algorithm](/pointcloud-basic-processing/nearest-neighbors)
+- [Nearest Neighbors Algorithm](https://github.com/adrien-Chen/pointcloud-basic-processing/tree/master/nearest-neighbors)
 
   - KD-Tree实现
   - Octree实现
   - KNN、Radius-NN实现
 
-- [Clustering](/pointcloud-basic-processing/clustering)
+- [Clustering](https://github.com/adrien-Chen/pointcloud-basic-processing/tree/master/clustering)
 
   - K-means
   - GMM
@@ -31,7 +31,7 @@
 
   ![](imgs/show_spectral.png)
 
-- [Model Fitting](/pointcloud-basic-processing/model-fitting)
+- [Model Fitting](https://github.com/adrien-Chen/pointcloud-basic-processing/tree/master/model-fitting)
 
   - LSQ（最小二乘法）
   - RANSAC
@@ -39,14 +39,14 @@
 
 ![](imgs/show_ground_seg.png)
 
-- [Feature Extraction](/pointcloud-basic-processing/feature-extraction): 
+- [Feature Extraction](https://github.com/adrien-Chen/pointcloud-basic-processing/tree/master/feature-extraction): 
   - implete ISS
-- [Feature Description](/pointcloud-basic-processing/feature-description)  
+- [Feature Description](https://github.com/adrien-Chen/pointcloud-basic-processing/tree/master/feature-description)  
   - implete FPFH
 
 ![](imgs/show_description.png)
 
-- [Supplementary](/pointcloud-basic-processing/supplementary-notes)
+- [Supplementary](https://github.com/adrien-Chen/pointcloud-basic-processing/tree/master/supplementary-notes)
   - 数学基础
   - GNN简介
   - 知识点总结
