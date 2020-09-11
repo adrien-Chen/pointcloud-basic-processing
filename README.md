@@ -1,8 +1,3 @@
----
-
-typora-root-url: ./imgs
----
-
 # pointcloud-basic-processing
 关于点云的一些基础性、传统处理方法的学习实现和总结，希望能帮助到大家～
 
