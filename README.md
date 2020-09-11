@@ -1,3 +1,8 @@
+---
+
+typora-root-url: ./imgs
+---
+
 # pointcloud-basic-processing
 关于点云的一些基础性、传统处理方法的学习实现和总结，希望能帮助到大家～
 
@@ -9,11 +14,11 @@
 
   - 对ModelNet40数据做PCA
 
-  <img src="/Users/Adrienchen/Library/Application Support/typora-user-images/image-20200911200634424.png" alt="image-20200911200634424" style="zoom:67%;" />
+  ![pca](/pca.png)
 
   - 对ModelNet40数据做voxel filter
 
-<img src="/Users/Adrienchen/Library/Application Support/typora-user-images/image-20200911200659762.png" alt="image-20200911200659762" style="zoom:67%;" />
+![](/voxel_filter.png)
 
 - [Nearest Neighbors Algorithm](/Users/Adrienchen/Desktop/点云/pointcloud-basic-processing/nearest-neighbors)
 
@@ -29,7 +34,7 @@
 
   compare ours implements with sklearn：show spectral like this
 
-  <img src="/Users/Adrienchen/Library/Application Support/typora-user-images/image-20200911201038027.png" alt="image-20200911201038027" style="zoom:67%;" />
+  ![](/show_spectral.png)
 
 - [Model Fitting](/Users/Adrienchen/Desktop/点云/pointcloud-basic-processing/model-fitting)
 
@@ -37,14 +42,14 @@
   - RANSAC
   - 实现简单的地面分割（[more results](/Users/Adrienchen/Desktop/点云/pointcloud-basic-processing/model-fitting/result-imgs)）
 
-<img src="/Users/Adrienchen/Library/Application Support/typora-user-images/image-20200911202024903.png" alt="image-20200911202024903" style="zoom:67%;" />
+![](/show_ground_seg.png)
 
 - [Feature Extraction](/Users/Adrienchen/Desktop/点云/pointcloud-basic-processing/feature-extraction): 
   - implete ISS
 - [Feature Description](/Users/Adrienchen/Desktop/点云/pointcloud-basic-processing/feature-description)  
   - implete FPFH
 
-![image-20200911203726720](/Users/Adrienchen/Library/Application Support/typora-user-images/image-20200911203726720.png)
+![](/show_description.png)
 
 - [Supplementary](/Users/Adrienchen/Desktop/点云/pointcloud-basic-processing/supplementary-notes)
   - 数学基础
