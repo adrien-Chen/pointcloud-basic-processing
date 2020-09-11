@@ -5,23 +5,23 @@
 
 主要对以下算法进行学习和实现，
 
-- [PCA](/Users/Adrienchen/Desktop/点云/pointcloud-basic-processing/pca)
+- [PCA](/pointcloud-basic-processing/pca)
 
   - 对ModelNet40数据做PCA
 
-  ![pca](/pca.png)
+  ![pca](imgs/pca.png)
 
   - 对ModelNet40数据做voxel filter
 
-![](/voxel_filter.png)
+![](imgs/voxel_filter.png)
 
-- [Nearest Neighbors Algorithm](/Users/Adrienchen/Desktop/点云/pointcloud-basic-processing/nearest-neighbors)
+- [Nearest Neighbors Algorithm](/pointcloud-basic-processing/nearest-neighbors)
 
   - KD-Tree实现
   - Octree实现
   - KNN、Radius-NN实现
 
-- [Clustering](/Users/Adrienchen/Desktop/点云/pointcloud-basic-processing/clustering)
+- [Clustering](/pointcloud-basic-processing/clustering)
 
   - K-means
   - GMM
@@ -29,24 +29,24 @@
 
   compare ours implements with sklearn：show spectral like this
 
-  ![](/show_spectral.png)
+  ![](imgs/show_spectral.png)
 
-- [Model Fitting](/Users/Adrienchen/Desktop/点云/pointcloud-basic-processing/model-fitting)
+- [Model Fitting](/pointcloud-basic-processing/model-fitting)
 
   - LSQ（最小二乘法）
   - RANSAC
   - 实现简单的地面分割（[more results](/Users/Adrienchen/Desktop/点云/pointcloud-basic-processing/model-fitting/result-imgs)）
 
-![](/show_ground_seg.png)
+![](imgs/show_ground_seg.png)
 
-- [Feature Extraction](/Users/Adrienchen/Desktop/点云/pointcloud-basic-processing/feature-extraction): 
+- [Feature Extraction](/pointcloud-basic-processing/feature-extraction): 
   - implete ISS
-- [Feature Description](/Users/Adrienchen/Desktop/点云/pointcloud-basic-processing/feature-description)  
+- [Feature Description](/pointcloud-basic-processing/feature-description)  
   - implete FPFH
 
-![](/show_description.png)
+![](imgs/show_description.png)
 
-- [Supplementary](/Users/Adrienchen/Desktop/点云/pointcloud-basic-processing/supplementary-notes)
+- [Supplementary](/pointcloud-basic-processing/supplementary-notes)
   - 数学基础
   - GNN简介
   - 知识点总结
