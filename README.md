@@ -3,7 +3,7 @@
 
 数据集主要包括：ModelNet40、KITTI
 
-主要对以下算法进行学习和实现，
+主要对以下算法进行学习和实现:
 
 - [PCA](https://github.com/adrien-Chen/pointcloud-basic-processing/tree/master/pca)
 
