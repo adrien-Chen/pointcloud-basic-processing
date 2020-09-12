@@ -35,7 +35,7 @@
 
   - LSQ（最小二乘法）
   - RANSAC
-  - 实现简单的地面分割（[more results](/Users/Adrienchen/Desktop/点云/pointcloud-basic-processing/model-fitting/result-imgs)）
+  - 实现简单的地面分割（[more results](https://github.com/adrien-Chen/pointcloud-basic-processing/tree/master/model-fitting/result-imgs)）
 
 ![](imgs/show_ground_seg.png)
 
